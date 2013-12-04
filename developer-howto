@@ -5,8 +5,8 @@ Getting Started with Ruby & Rails Development
 * You'll need to install Ruby; for that, you should use RVM:
   curl -L https://get.rvm.io | bash -s
   
-Then, you can run
+*Then, you can run
 
-rvm requirements
+  rvm requirements
 
-to install prerequisites. BE WARNED: This will download and compile quite a few things, so make sure your laptop is plugged in. You may want to make a nice cup of coffee.
+  to install prerequisites. BE WARNED: This will download and compile quite a few things, so make sure your laptop is plugged in. You may want to make a nice cup of coffee.
