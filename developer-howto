@@ -9,4 +9,10 @@ Getting Started with Ruby & Rails Development
 
   rvm requirements
 
-  to install prerequisites. BE WARNED: This will download and compile quite a few things, so make sure your laptop is plugged in. You may want to make a nice cup of coffee.
+  to install prerequisites. BE WARNED: This will potentially download and compile quite a few things, so make sure your laptop is plugged in. You may want to make a nice cup of coffee.
+
+* Okay, time to install rails!
+
+  rvm install 2.0.0 --with-openssl-dir=$HOME/.rvm/usr
+  
+  This will also take a while, though maybe not as long as the requirements.
