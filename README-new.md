@@ -22,6 +22,12 @@ To initialize:
 `rake db:migrate`
 `rake db:seed`
 
+And start up the server:
+
+`rails s`
+
+This will take over your terminal.
+
 You might also want to POST some data points using the`curl` request below.
 
 login with user@example.com/changeme
